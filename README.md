@@ -17,5 +17,8 @@ builds an index that includes huge pages and then arranges them within the resul
 algorithms(Ranking Factors),and the result of your search differs from the result of your colleagues, meaning that the search <br/> results are customized for you.
 ## How I can improve my Site's Ranking ? 🤔
 we should following best practices can make it easier for your website to be crawled, indexed, and recognized by search engines.
-so let's talk about `Ranking Factors` in this section
+so let's talk about `Ranking Factors` in this section.
+## Ranking Factors:
+It means that search engines rank for results within certain criteria and algorithms.,<br />
+### **There are a set of important criteria in search engines : **
 
