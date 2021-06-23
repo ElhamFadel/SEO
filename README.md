@@ -7,5 +7,5 @@ Then the search engines :cyclone: search  through their huge index<br/> of pages
 - Bing.
 - Yahoo.
 - Baidu.
-- Yandex.<br /><br />
-Okay Let's start to know about ***SEO*** :zap: :zap: 
+- Yandex.<br />
+#### Okay Let's start to know about ***SEO*** :zap: :zap: 
