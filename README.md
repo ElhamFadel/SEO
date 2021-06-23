@@ -11,3 +11,7 @@ Then the search engines :cyclone: search  through their huge index<br/> of pages
 #### Okay Let's start to know about ***SEO*** :zap: :zap: 
 ***`SEO`*** stands for **“search engine optimization”**<br />
 It is a set of continuous operations that we carry out to make your website appear in the first results of search engines.
+## How do search engines work ? 🤔
+Search engines filter the similar and appropriate words to your words that you put in the search portal, then the web spiders <br />
+builds an index that includes huge pages and then arranges them within the results page according to certain criteria and algorithms,<br/>
+and the result of your search differs from the result of your colleagues, meaning that the search results are customized for you.
