@@ -20,5 +20,5 @@ we should following best practices can make it easier for your website to be cra
 so let's talk about `Ranking Factors` in this section.
 ## Ranking Factors:
 It means that search engines rank for results within certain criteria and algorithms.,<br />
-### **There are a set of important criteria in search engines : **
+### **There are a set of important criteria in search engines :**
 
