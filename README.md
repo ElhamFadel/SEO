@@ -9,4 +9,5 @@ Then the search engines :cyclone: search  through their huge index<br/> of pages
 - Baidu.
 - Yandex.<br />
 #### Okay Let's start to know about ***SEO*** :zap: :zap: 
-***`SEO`*** stands for **“search engine optimization.”**
+***`SEO`*** stands for **“search engine optimization.”**<br />
+It is a set of continuous operations that we carry out to make your website appear in the first results of search engines
