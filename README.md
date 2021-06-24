@@ -25,5 +25,6 @@ It means that search engines rank for results within certain criteria and algori
 * Fit page content to keywords.
 * Importance content of the page compared to similar pages.
 ### Search results ranking criteria :
+1. Include of the keyword or its synonyms within the page title tag.<title>||something there||</title>
 
 
